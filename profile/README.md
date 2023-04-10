@@ -1,5 +1,7 @@
 # LibreShark
 
+![LibreShark mascot](/images/libreshark-icon-256.png)
+
 We are working to preserve retro video game enhancers (mostly cheat devices) from the 1980s through the early 2000s.
 
 - [Firmware dumps](https://github.com/LibreShark/sharkdumps) and OSS firmware images
